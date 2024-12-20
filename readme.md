@@ -1,6 +1,3 @@
-Here’s a more visually appealing and organized version of your README:
-
----
 
 # **Online Collaborative Text Editor**
 
